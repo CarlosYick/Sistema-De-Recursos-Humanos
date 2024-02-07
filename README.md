@@ -1,3 +1,6 @@
+![](https://niixer.com/wp-content/uploads/2020/11/spring-boot.png)
+![](https://www.patterns.dev/img/reactjs/react-logo@3x.svg)
+
 ## Descripción ##
 
 App Full Stack de un Sistema De Recursos Humanos, hecha con Spring Boot en la parte del Back-end y React en la parte del Front-end y el gestor de Bases de Datos MySQL, tiene todas las 
